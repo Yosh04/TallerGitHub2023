@@ -3,6 +3,31 @@ This is a course developed to learn git and github for computer science students
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
+
+## Integrantes del Equipo
+
+El equipo está formado por tres miembros universitarios:
+
+1. Nombre: [Antony Muñoz]
+   - Área de estudio: [Informatico Empresarial]
+   - Responsabilidades: [Creación e impartición del taller.]
+   - Perfil de GitHub: [TONY MJ]
+
+2. Nombre: [Peter Sequeira]
+   - Área de estudio: [Informatico Empresarial]
+   - Responsabilidades: [Creación e impartición del taller]
+   - Perfil de GitHub: [Pitsix23]
+
+3. Nombre: [Starling Briones]
+   - Área de estudio: [Informatico Empresarial]
+   - Responsabilidades: [Creación de carousel]
+   - Perfil de GitHub: [Briones-cr]
+     
+4. Nombre: [Yosh Escorcia]
+   - Área de estudio: [Informatico Empresarial]
+   - Responsabilidades: [Creación de carousel]
+   - Perfil de GitHub: [Yosh04]
+
 ## Ventajas de usar Git
 
 Git es una herramienta popular de control de versiones que ofrece muchas ventajas para desarrolladores y equipos de desarrollo de software. Algunas de las principales ventajas son:
