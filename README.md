@@ -20,12 +20,12 @@ El equipo está formado por tres miembros universitarios:
 
 3. Nombre: [Starling Briones]
    - Área de estudio: [Informatico Empresarial]
-   - Responsabilidades: [Creación de carousel]
+   - Responsabilidades: [Creación e impartición del taller]
    - Perfil de GitHub: [Briones-cr]
      
 4. Nombre: [Yosh Escorcia]
    - Área de estudio: [Informatico Empresarial]
-   - Responsabilidades: [Creación de carousel]
+   - Responsabilidades: [Creación e impartición del taller]
    - Perfil de GitHub: [Yosh04]
 
 ## Ventajas de usar Git
